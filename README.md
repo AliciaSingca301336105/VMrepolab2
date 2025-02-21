@@ -1,2 +1,3 @@
 # VMrepolab2
-Initial commit to VMJenkins.
+Initial commit to VMJenkins. 
+Check the update.
